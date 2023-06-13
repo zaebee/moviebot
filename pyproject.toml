@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.11"
 python-dotenv = "^1.0.0"
 python-telegram-bot = "^20.3"
+dateparser = "^1.1.8"
+spacy = "^3.5.3"
 
 
 [build-system]
